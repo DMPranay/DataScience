@@ -1,0 +1,5 @@
+Question) There are two games involving dice that you can play. In the first game, you roll two die at once and get the dollar amount equivalent to the product of the rolls. In the second game, you roll one die and get the dollar amount equivalent to the square of that value. Which has the higher expected value and why?
+Answer)   Taking 1 : game 1: there a total of 6**2 outputs
+                     game 2: there are a total of 6
+          There are 1+2+3+4+5 = 15 ways where the output of game 1 is greater than game 2 while in 21 ways game 2 is greater than game 1.
+          so we can expect that game 2 has more chance of getting higher values. 
